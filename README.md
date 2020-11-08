@@ -8,29 +8,26 @@
 
 # Introduction
 
-ToDo-List is an easy to use web application for dealing with daily tasks. 
-It offers multiple lists with various tasks.
-- Project Link: [https://github.com/tareknaser360/ToDo-List](https://github.com/tareknaser360/ToDo-List)
-- preview Link: [https://youtu.be/-lz30vxtbCA](https://youtu.be/-lz30vxtbCA)
-![Preview image](/img/preview.jpg)
+Flappy-bird is a simple version of the famous game. 
+- Project Link: [https://github.com/tareknaser360/Flappy-bird](https://github.com/tareknaser360/Flappy-bird)
+- preview Link: [https://youtu.be/qptwbTQIjKo](https://youtu.be/qptwbTQIjKo)
+
+![Preview image](/graphics/preview1.jpg)
 
 ### Built With
 
-* HTML
-* CSS
-* JavaScript
+* Lua
 
 
 
 ## Usage
+- the game starts with the bird in the middle of the screen.
+- press the space bar to start the game.
+- press the space bar to make the bird jump.
+- when the bird hits a pole or the ground, the game ends.
+- the score is then shown in the middle of the screen with a "Game Over" message.
 
-- type the new list name and click the add button to create your first list of tasks.
-- notice the tasks list which will keep track of the number of the remaining tasks.
-- click the list name to select it.
-- type the new task name and click the add button to create a new task inside of the selected list.
-- click on the task to mark it as complete.
-- click "Clear completed tasks" to clear the tasks marked complete.
-- click delete list to delete the currently selected list.
+![Preview2 image](/graphics/preview2.jpg)
 
 
 
