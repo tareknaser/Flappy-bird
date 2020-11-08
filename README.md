@@ -30,7 +30,3 @@ Flappy-bird is a simple version of the famous game.
 ![Preview2 image](/graphics/preview2.jpg)
 
 
-
-## Contact
-
-Tarek Mohammed Nasser - [tareknaser360@gmail.com](tareknaser360@gmail.com)
