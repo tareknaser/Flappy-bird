@@ -1,11 +1,13 @@
+# Flappy-bird
 ## CONTENTS OF THIS FILE
 
  * Introduction
  * Built With
+ * Requirements
  * Usage
 
 
-# Introduction
+### Introduction
 
 Flappy-bird is a simple version of the famous game. 
 - Project Link: [https://github.com/tareknaser360/Flappy-bird](https://github.com/tareknaser360/Flappy-bird)
@@ -17,12 +19,16 @@ Flappy-bird is a simple version of the famous game.
 
 * Lua
 
+### Requirements
+- Download love by lua from the official website.
+- Download all files and folders.
+- make a shortcut of love.exe.
+- drag the Flappy-bird folder into the shortcut to open the game.
 
-
-## Usage
+### Usage
 - the game starts with the bird in the middle of the screen.
 - press the space bar to start the game.
-- press the space bar to make the bird jump.
+- press the space bar to make the bird jump and try to avoid hitting a the poles.
 - when the bird hits a pole or the ground, the game ends.
 - the score is then shown in the middle of the screen with a "Game Over" message.
 
