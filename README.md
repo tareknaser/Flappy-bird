@@ -1,10 +1,4 @@
 # Flappy-bird
-## CONTENTS OF THIS FILE
-
- * Introduction
- * Built With
- * Requirements
- * Usage
 
 
 ### Introduction
