@@ -3,7 +3,6 @@
  * Introduction
  * Built With
  * Usage
- * Contact
 
 
 # Introduction
